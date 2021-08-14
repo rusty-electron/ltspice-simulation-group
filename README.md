@@ -6,7 +6,7 @@
   Image credit: <a href="https://people.ece.cornell.edu/land/courses/ece1810/LTspice/">cornell.edu</a>
 </p>
 
-Simulator: LTSpiceIV - [download link](http://ltspice.linear-tech.com/software/LTspiceIV.exe)
+Simulator: ~~LTSpiceIV~~ LTSpiceXVII - [download link](https://ltspice.analog.com/software/LTspiceXVII.exe)
    * It is available only for Windows but it works fine using `wine` on Linux (tested on Linux Mint)
 
 Reference Books:
@@ -20,7 +20,7 @@ Here we list the steps involved in a weekly simulation exercise:
 * First, we choose a chapter(s) from the reference books listed above, the reference books are chosen such that they contain dense information about the circuits and also contain information necessary for preparing a simulation in any standard circuit simulation tool.
     * We skip pure theory chapters from the books (but we do need the necessary context for understanding the intricacies of the circuits altough such chapters are not actively involved in simulations)
 * We choose a circuit from the book, at the start of the week each member chooses a circuit from the chapter chosen in previous step.
-* We simulate the circuit in LTSpiceIV
+* We simulate the circuit in LTSpiceXVII
 * Towards the end of the week, We prepare a 1-page report that contains the details of the circuit as well as important information involved in preparing the simulation that can help while replicating it. This report is then peer-reviewed by another member.
 
 * We also aim to post a simulation tutorial on [medium.com](https://medium.com), the timing of this task is flexible.
