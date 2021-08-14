@@ -9,7 +9,7 @@
 Simulator: LTSpiceIV - [download link](http://ltspice.linear-tech.com/software/LTspiceIV.exe)
    * It is available only for Windows but it works fine using `wine` on Linux (tested on Linux Mint)
 
-Reference Books: 
+Reference Books:
    * Gayakwad (Opamps)
    * Boylestad (Analog circuits)
 
@@ -38,3 +38,4 @@ Here we list the steps involved in a weekly simulation exercise:
 
 * [afrotechmods](https://www.youtube.com/playlist?list=PLB83D613334919AE6)
 * [Fesz electronics](https://www.youtube.com/playlist?list=PLT84nve2j1g_wgGcm0Bv3K4RSl2Jdjsey)
+* [eevblog](https://www.youtube.com/watch?v=FEGT5dUpdrc)
