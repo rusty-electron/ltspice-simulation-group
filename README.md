@@ -36,6 +36,13 @@ Here we list the steps involved in a weekly simulation exercise:
 
 ### Youtube playlists
 
+#### LTspice
+
 * [afrotechmods](https://www.youtube.com/playlist?list=PLB83D613334919AE6)
 * [Fesz electronics](https://www.youtube.com/playlist?list=PLT84nve2j1g_wgGcm0Bv3K4RSl2Jdjsey)
 * [eevblog](https://www.youtube.com/watch?v=FEGT5dUpdrc)
+
+#### Opamps
+
+* [Khan Academy](https://www.youtube.com/playlist?list=PLzUN9-WgjT3PcvDFD5cI9COE9E53CrcgA)
+* [eevblog theory](https://www.youtube.com/watch?v=7FYHt5XviKc&list=PLvOlSehNtuHu2FviAaZaiyXwN41G4b1Lf)
