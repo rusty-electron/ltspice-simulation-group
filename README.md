@@ -30,12 +30,12 @@ Here we list the steps involved in a weekly simulation exercise:
 
 ### Submission format
 
-Place the Week X's files in the directory `./weekX` under the naming format `<username>-weekX.pdf`. Hence, if my username is `badbox4` and I am submitting for week3, the report file should be place under the directory `week3` as `badbox4-week3.pdf`.
+Place the Week X's files in the directory `./weekX` under the naming format `<username>-weekX.pdf`. Hence, if my username is `badbox4` and I am submitting for week 3, the report file should be place under the directory `week3` as `badbox4-week3.pdf`.
 
 ## Week-wise schedule
 
-* Week 1: Opamp with -ve feedback (first five chapters of Gayakwad) - completed
-* Week 2: Frequency Response and General Linear Applications of Opamps
+* [x] Week 1: Opamp with -ve feedback (first five chapters of Gayakwad)
+* [ ] Week 2: Frequency Response and General Linear Applications of Opamps
 
 ## Resources
 
