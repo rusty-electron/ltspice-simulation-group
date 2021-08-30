@@ -47,6 +47,7 @@ Place the Week X's files in the directory `./weekX` under the naming format `<us
 * [afrotechmods](https://www.youtube.com/playlist?list=PLB83D613334919AE6)
 * [Fesz electronics](https://www.youtube.com/playlist?list=PLT84nve2j1g_wgGcm0Bv3K4RSl2Jdjsey)
 * [eevblog](https://www.youtube.com/watch?v=FEGT5dUpdrc)
+* [EE Topics](https://www.youtube.com/playlist?list=PL2w-HgusdsYMvIUsGTQJBV2i25r740uJx)
 
 #### Opamps
 
