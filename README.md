@@ -36,7 +36,8 @@ Place the Week X's files in the directory `./weekX` under the naming format `<us
 
 * [x] Week 1: Opamp with -ve feedback (first five chapters of Gayakwad)
 * [x] Week 2: Frequency Response and General Linear Applications of Opamps
-* [ ] Week 3: Instrumentation Amplifiers and its applications
+* [x] Week 3: Instrumentation Amplifiers and its applications
+* [ ] Week 4: Applications of Instrumentation Amplifiers 
 
 ## Resources
 
