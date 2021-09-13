@@ -41,6 +41,10 @@ Place the Week X's files in the directory `./weekX` under the naming format `<us
 
 ## Resources
 
+### LM741
+
+The LM741 op-amp is quite frequently used in the examples of the Gayakwad book but it is not available by default in LTSpiceXVII so one can use this [guide](./add_LM741_LTspice.pdf) I found at eevblog's forums to add LM741 IC to LTSpiceXVII.
+
 ### Youtube playlists
 
 #### LTspice
