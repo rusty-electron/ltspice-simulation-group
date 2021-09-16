@@ -38,6 +38,7 @@ Place the Week X's files in the directory `./weekX` under the naming format `<us
 * [x] Week 2: Frequency Response and General Linear Applications of Opamps
 * [x] Week 3: Instrumentation Amplifiers and its applications
 * [ ] Week 4: Applications of Instrumentation Amplifiers 
+* [ ] Week 5: Active Filters
 
 ## Resources
 
