@@ -44,7 +44,7 @@ Place the Week X's files in the directory `./weekX` under the naming format `<us
 
 ### Report template
 
-Here is a [sample report template](https://www.overleaf.com/read/xdkhktjzpnfd), clone this and edit on overleaf.com or download and edit offline.
+Here is a [sample report template](https://www.overleaf.com/read/xdkhktjzpnfd), clone this and edit on [overleaf.com](https://overleaf.com) or download the `.tex` files and edit offline.
 
 ### adding LM741 spice model
 
